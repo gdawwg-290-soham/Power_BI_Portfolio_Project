@@ -22,3 +22,8 @@ Key Learnings and Skills Demonstrated -
 2) Analytical Skills: The project demonstrates proficiency in analyzing complex datasets and deriving actionable insights.
 3) Technical Proficiency: Expertise in using Power BI and DAX is demonstrated through the creation of sophisticated visualizations and reports.
 4) Presentation Skills: Emphasis on how to present data effectively to stakeholders, making the insights easily understandable.
+
+
+
+<img width="761" alt="PowerBI-project" src="https://github.com/user-attachments/assets/44dc14a1-ad67-451f-b6d6-a40b0dec23cd">
+
